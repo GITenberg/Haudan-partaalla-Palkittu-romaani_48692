@@ -1,15 +1,21 @@
 _repo: Haudan-partaalla-Palkittu-romaani_48692
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Heilala, Yrjö
     gutenberg_agent_id: '44927'
     url: http://www.gutenberg.org/2009/agents/44927
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Juncker, E.
     gutenberg_agent_id: '44926'
     url: http://www.gutenberg.org/2009/agents/44926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48692#Haudan-partaalla-Palkittu-romaani
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
